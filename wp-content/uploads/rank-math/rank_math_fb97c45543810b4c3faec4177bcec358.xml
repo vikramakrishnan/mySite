@@ -8,35 +8,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/about-me/</loc>
-		<lastmod>2024-03-26T07:21:32+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/07/PHOTO-2020-12-29-21-39-22.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/07/pp-logo.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/07/bby-logo.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/07/tcs-logo.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/musings/</loc>
-		<lastmod>2022-09-10T13:02:33+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/07/422x463.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/newsletter/</loc>
-		<lastmod>2022-07-22T05:47:56+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/book-summaries/</loc>
-		<lastmod>2022-07-22T05:47:56+00:00</lastmod>
+		<lastmod>2024-05-01T11:53:40+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/07/motive-202x300.webp</image:loc>
 		</image:image>
@@ -58,7 +31,7 @@
 	</url>
 	<url>
 		<loc>/blog/</loc>
-		<lastmod>2022-07-22T05:47:56+00:00</lastmod>
+		<lastmod>2024-05-01T11:53:33+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/04/the-runners-1024x819.jpg</image:loc>
 		</image:image>
@@ -67,6 +40,33 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/07/Picture-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/about-me/</loc>
+		<lastmod>2024-05-01T11:53:29+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/07/PHOTO-2020-12-29-21-39-22.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/07/pp-logo.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/07/bby-logo.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/07/tcs-logo.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/newsletter/</loc>
+		<lastmod>2024-05-01T11:52:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/musings/</loc>
+		<lastmod>2024-05-01T11:52:04+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/07/422x463.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
