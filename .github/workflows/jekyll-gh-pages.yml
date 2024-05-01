@@ -28,8 +28,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Change Base location for sitemap
-        run: sed -i -e 's|<loc>\(.*\)</loc>|<loc>https://vikramakrishnan.github.io\1</loc>|g' -e 's|<image:loc>\(.*\)</image:loc>|<image:loc>https://vikramakrishnan.github.io\1</image:loc>|g' page-sitemap.xml
+      - name: Change Base location for Sitemaps
+        run: sed -i -e 's|<loc>\(.*\)</loc>|<loc>https://vikramakrishnan.github.io\1</loc>|g' -e 's|<image:loc>\(.*\)</image:loc>|<image:loc>https://vikramakrishnan.github.io\1</image:loc>|g' page-sitemap.xml post-sitemap.xml category-sitemap.xml sitemap_index.xml
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll

@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Book Summaries &#8211; Infinite Possibilities</title>
-	<atom:link href="http://localhost/mySite/category/book-summaries/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/mySite/category/book-summaries/feed/?simply_static_page=28640" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Dare to Dream</description>
 	<lastBuildDate>Fri, 22 Jul 2022 05:48:43 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1</generator>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
 	<item>
 		<title>The Motive &#8211; Patrick Lencioni</title>
 		<link>/2020/12/26/the-motive-patrick-lencioni/</link>
@@ -30,7 +30,7 @@
 
 					<description><![CDATA[2 Kinds of Leaders Reward centered They see the moving to leadership as a reward of what they’ve achieved so far and is a prize. [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h2>2 Kinds of Leaders</h2>
+<h2 class="wp-block-heading">2 Kinds of Leaders</h2>
 
 
 
@@ -46,7 +46,7 @@
 
 
 
-<h2><strong>5 Core responsibilities</strong> </h2>
+<h2 class="wp-block-heading"><strong>5 Core responsibilities</strong> </h2>
 
 
 
@@ -74,7 +74,7 @@
 
 
 
-<h2>Quotes &amp; References</h2>
+<h2 class="wp-block-heading">Quotes &amp; References</h2>
 
 
 
@@ -101,7 +101,7 @@
 
 					<description><![CDATA[Life is not a quest for Pleasure &#8211; It&#8217;s a quest for meaning 3 possible sources of meaning Work &#8211; Finding purposeful work or doing [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<blockquote class="wp-block-quote"><p><strong><em>Life is not a quest for Pleasure &#8211; It&#8217;s a quest for meaning</em></strong></p></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><strong><em>Life is not a quest for Pleasure &#8211; It&#8217;s a quest for meaning</em></strong></p></blockquote>
 
 
 
@@ -109,7 +109,7 @@
 
 
 
-<blockquote class="wp-block-quote"><p><em>&#8220;Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.”</em></p></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><em>&#8220;Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.”</em></p></blockquote>
 
 
 
@@ -117,7 +117,7 @@
 
 
 
-<h2>Logo Therapy</h2>
+<h2 class="wp-block-heading">Logo Therapy</h2>
 
 
 
@@ -125,7 +125,7 @@
 
 
 
-<h2>Quotes &amp; References</h2>
+<h2 class="wp-block-heading">Quotes &amp; References</h2>
 
 
 
@@ -154,7 +154,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="MAN&#039;S SEARCH FOR MEANING BY VIKTOR FRANKL" width="819" height="461" src="https://www.youtube.com/embed/SVhuCpgLCTE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="MAN&#039;S SEARCH FOR MEANING BY VIKTOR FRANKL" width="819" height="461" src="https://www.youtube.com/embed/SVhuCpgLCTE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 ]]></content:encoded>
 					
@@ -212,11 +212,11 @@
 
 
 
-<h2>Wheel #1 &#8211; Personal Life</h2>
+<h2 class="wp-block-heading">Wheel #1 &#8211; Personal Life</h2>
 
 
 
-<h3><strong><em>Expressing Gratitude</em></strong></h3>
+<h3 class="wp-block-heading"><strong><em>Expressing Gratitude</em></strong></h3>
 
 
 
@@ -224,19 +224,19 @@
 
 
 
-<h3><strong><em>Press Pause</em></strong></h3>
+<h3 class="wp-block-heading"><strong><em>Press Pause</em></strong></h3>
 
 
 
-<ul><li>Joshua Bell &#8211; <a href="https://www.youtube.com/watch?v=hnOPu0_YWhw" target="_blank" rel="noopener external noreferrer" data-wpel-link="external">Social experiment with Washington Post</a>&nbsp; &amp; <a href="https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html" target="_blank" rel="noopener external noreferrer" data-wpel-link="external">Article</a></li><li>If we don&#8217;t pause, we miss a lot of beautiful moments in life.</li></ul>
+<ul><li>Joshua Bell &#8211; <a href="https://www.youtube.com/watch?v=hnOPu0_YWhw" target="_blank" rel="noopener">Social experiment with Washington Post</a>&nbsp; &amp; <a href="https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html" target="_blank" rel="noopener">Article</a></li><li>If we don&#8217;t pause, we miss a lot of beautiful moments in life.</li></ul>
 
 
 
-<h3><strong><em>Why Worry</em></strong></h3>
+<h3 class="wp-block-heading"><strong><em>Why Worry</em></strong></h3>
 
 
 <div class="wp-block-image">
-<figure class="alignleft size-large is-resized"><img decoding="async" loading="lazy" src="https://randommusings506939532.files.wordpress.com/2020/12/image-3.png?w=480" alt="Then...why worry?? | Why worry, Cool words, Inspirational quotes" class="wp-image-204" width="358" height="503"/></figure></div>
+<figure class="alignleft size-large is-resized"><img fetchpriority="high" decoding="async" src="https://randommusings506939532.files.wordpress.com/2020/12/image-3.png?w=480" alt="Then...why worry?? | Why worry, Cool words, Inspirational quotes" class="wp-image-204" width="358" height="503"/></figure></div>
 
 
 <ul><li>Learning to detach ourselves from situations outside of our control is an imperative skill to learn for personal growth.</li><li>This doesn&#8217;t mean you should be lazy &#8211; we should do everything in our power to rectify the situation, but after that we should take our attention away from the unpleasant circumstance.</li><li>What we see as bad at one point in time may turn out to be good for us and, what we see as good at another point may turn out to be bad for us. We should not judge the situation by its face value.</li><li>Sometimes when we get engrossed in a problem, we feel trapped in our own minds. In that state, we constantly regurgitate our issues, causing us a lot of emotional pain. A spiritual process gives us the ability to come out of this mental loop and helps transform the greatest difficulties into opportunities.’</li></ul>
@@ -247,7 +247,7 @@
 
 
 
-<h3><em>Importance of Meditation</em></h3>
+<h3 class="wp-block-heading"><em>Importance of Meditation</em></h3>
 
 
 
@@ -255,11 +255,11 @@
 
 
 
-<h2>Wheel #2 : Relationships</h2>
+<h2 class="wp-block-heading">Wheel #2 : Relationships</h2>
 
 
 
-<h3><em>Be sensitive with our words and actions</em></h3>
+<h3 class="wp-block-heading"><em>Be sensitive with our words and actions</em></h3>
 
 
 
@@ -267,7 +267,7 @@
 
 
 
-<h3><em>Look at the Positives</em></h3>
+<h3 class="wp-block-heading"><em>Look at the Positives</em></h3>
 
 
 
@@ -275,15 +275,15 @@
 
 
 
-<h3><em><strong>Correcting Cautiously</strong></em></h3>
+<h3 class="wp-block-heading"><em><strong>Correcting Cautiously</strong></em></h3>
 
 
 
-<ul><li>Learning the art of appreciation is vital for building healthy relationship.</li><li><strong><em>Mutual Funds &amp; Relationships have one thing in common &#8211; You must invest in them before you can withdraw</em></strong> <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li><li>We should learn to invest appreciation and love into a person before we correct them. If not done this way, the person receiving the feedback will feel demotivated and not cherished.</li><li><strong><em>Art of giving feedback</em></strong> &#8211; just having the right intention is not enough. Giving advice inappropriately may do more harm than good. <em><span class="has-inline-color has-luminous-vivid-orange-color"><strong>It&#8217;s not what you said, it&#8217;s how you said it. Tone of the voice, body language and facial expression account for more than words too</strong>.</span></em></li><li><strong><span style="text-decoration:underline;">4 questions before giving feedback</span></strong><ol type="1"><li><strong><em>Am I the right person to give corrective feedback?</em></strong> &#8211; Is someone else better suited, am I a friend? Am I an authority in the subject?</li><li><strong><em>Do I have the right motive to give corrective feedback</em></strong><ul><li>Desires govern what we want and motives tell us why we want it</li><li>We should be conscientious that our motive to give feedback is appropriate&nbsp; &#8211; or is it the case of settling old accounts, grudge or to exact vengeance.</li><li>Feedback from the place of love may be unpalatable, but it tastes the sweetest if done appropriately and has the right effect.</li></ul></li><li><strong>Do I know the right way to give corrective feedback</strong><ul><li><em>People are usually resilient. <span class="has-inline-color has-luminous-vivid-orange-color">They can stand being wrong, but only when it is pointed out to them with love. Being blunt and abusive can be emotionally draining for both, and the person receiving the feedback switches off after some time.</span></em></li></ul></li><li><strong>Is it the right time?</strong><ul><li>Hot heads don&#8217;t give good feedback &#8211; Choose a better time.</li><li>We should not simply let our anger loose &#8211; we should explain it. When we express what we feel, we do so at the risk of seeming unpleasant, but when we take the time to explain our emotions to people, they might be able to empathize with us.</li></ul></li></ol></li></ul>
+<ul><li>Learning the art of appreciation is vital for building healthy relationship.</li><li><strong><em>Mutual Funds &amp; Relationships have one thing in common &#8211; You must invest in them before you can withdraw</em></strong> <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li><li>We should learn to invest appreciation and love into a person before we correct them. If not done this way, the person receiving the feedback will feel demotivated and not cherished.</li><li><strong><em>Art of giving feedback</em></strong> &#8211; just having the right intention is not enough. Giving advice inappropriately may do more harm than good. <em><span class="has-inline-color has-luminous-vivid-orange-color"><strong>It&#8217;s not what you said, it&#8217;s how you said it. Tone of the voice, body language and facial expression account for more than words too</strong>.</span></em></li><li><strong><span style="text-decoration:underline;">4 questions before giving feedback</span></strong><ol type="1"><li><strong><em>Am I the right person to give corrective feedback?</em></strong> &#8211; Is someone else better suited, am I a friend? Am I an authority in the subject?</li><li><strong><em>Do I have the right motive to give corrective feedback</em></strong><ul><li>Desires govern what we want and motives tell us why we want it</li><li>We should be conscientious that our motive to give feedback is appropriate&nbsp; &#8211; or is it the case of settling old accounts, grudge or to exact vengeance.</li><li>Feedback from the place of love may be unpalatable, but it tastes the sweetest if done appropriately and has the right effect.</li></ul></li><li><strong>Do I know the right way to give corrective feedback</strong><ul><li><em>People are usually resilient. <span class="has-inline-color has-luminous-vivid-orange-color">They can stand being wrong, but only when it is pointed out to them with love. Being blunt and abusive can be emotionally draining for both, and the person receiving the feedback switches off after some time.</span></em></li></ul></li><li><strong>Is it the right time?</strong><ul><li>Hot heads don&#8217;t give good feedback &#8211; Choose a better time.</li><li>We should not simply let our anger loose &#8211; we should explain it. When we express what we feel, we do so at the risk of seeming unpleasant, but when we take the time to explain our emotions to people, they might be able to empathize with us.</li></ul></li></ol></li></ul>
 
 
 
-<h3><em><strong>Forgiveness</strong></em></h3>
+<h3 class="wp-block-heading"><em><strong>Forgiveness</strong></em></h3>
 
 
 
@@ -291,19 +291,19 @@
 
 
 
-<h3><em><strong>Associations</strong></em></h3>
+<h3 class="wp-block-heading"><em><strong>Associations</strong></em></h3>
 
 
 
-<ul><li><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-luminous-vivid-orange-color">Association (called Sangha in sanskrit) is crucial to your success in this world and beyond.</mark></li><li>We are known by the company we keep (funny story about handsome man and excretion)</li><li>Association is beyond neutral dealings &#8211; Level of intimacy<ul><li><a href="https://prabhupadabooks.com/d/dadati" target="_blank" rel="noopener external noreferrer" data-wpel-link="external"><em>dadāti</em></a>—gives charity; <a href="https://prabhupadabooks.com/d/pratigrhnati" target="_blank" rel="noopener external noreferrer" data-wpel-link="external"><em>pratigṛhṇāti</em></a>—accepts in return; <a href="https://prabhupadabooks.com/d/guhyam" target="_blank" rel="noopener external noreferrer" data-wpel-link="external"><em>guhyam</em></a><em>—</em>confidential topics; <a href="https://prabhupadabooks.com/d/akhyati" target="_blank" rel="noopener external noreferrer" data-wpel-link="external"><em>ākhyāti</em></a>—explains; <a href="https://prabhupadabooks.com/d/prcchati" target="_blank" rel="noopener external noreferrer" data-wpel-link="external"><em>pṛcchati</em></a>—enquires; <a href="https://prabhupadabooks.com/d/bhunkte" target="_blank" rel="noopener external noreferrer" data-wpel-link="external"><em>bhuṅkte</em></a><em>—</em>eats; <a href="https://prabhupadabooks.com/d/bhojayate" target="_blank" rel="noopener external noreferrer" data-wpel-link="external"><em>bhojayate</em></a>—feeds; <a href="https://prabhupadabooks.com/d/ca" target="_blank" rel="noopener external noreferrer" data-wpel-link="external"><em>ca</em></a>—also; <a href="https://prabhupadabooks.com/d/eva" target="_blank" rel="noopener external noreferrer" data-wpel-link="external"><em>eva</em></a>—certainly; <a href="https://prabhupadabooks.com/d/sat" target="_blank" rel="noopener external noreferrer" data-wpel-link="external"><em>ṣaṭ</em></a><em>&#8211;</em><a href="https://prabhupadabooks.com/d/vidham" target="_blank" rel="noopener external noreferrer" data-wpel-link="external"><em>vidham</em></a>—six kinds; <a href="https://prabhupadabooks.com/d/priti" target="_blank" rel="noopener external noreferrer" data-wpel-link="external"><em>prīti</em></a>—of love; <a href="https://prabhupadabooks.com/d/laksanam" target="_blank" rel="noopener external noreferrer" data-wpel-link="external"><em>lakṣaṇam</em></a>—symptoms.</li></ul></li><li>Association creates sub-conscious sharing of value systems (e.g smoker vs non-smoking friend and consequence)</li><li><em><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-luminous-vivid-orange-color">&#8220;Watch your thoughts, they become your words; watch your words, they become your actions; watch your actions, they become your habits; watch your habits, they become your character; watch your character, it becomes your destiny.&#8221;</mark></em></li></ul>
+<ul><li><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-luminous-vivid-orange-color">Association (called Sangha in sanskrit) is crucial to your success in this world and beyond.</mark></li><li>We are known by the company we keep (funny story about handsome man and excretion)</li><li>Association is beyond neutral dealings &#8211; Level of intimacy<ul><li><a href="https://prabhupadabooks.com/d/dadati" target="_blank" rel="noopener"><em>dadāti</em></a>—gives charity; <a href="https://prabhupadabooks.com/d/pratigrhnati" target="_blank" rel="noopener"><em>pratigṛhṇāti</em></a>—accepts in return; <a href="https://prabhupadabooks.com/d/guhyam" target="_blank" rel="noopener"><em>guhyam</em></a><em>—</em>confidential topics; <a href="https://prabhupadabooks.com/d/akhyati" target="_blank" rel="noopener"><em>ākhyāti</em></a>—explains; <a href="https://prabhupadabooks.com/d/prcchati" target="_blank" rel="noopener"><em>pṛcchati</em></a>—enquires; <a href="https://prabhupadabooks.com/d/bhunkte" target="_blank" rel="noopener"><em>bhuṅkte</em></a><em>—</em>eats; <a href="https://prabhupadabooks.com/d/bhojayate" target="_blank" rel="noopener"><em>bhojayate</em></a>—feeds; <a href="https://prabhupadabooks.com/d/ca" target="_blank" rel="noopener"><em>ca</em></a>—also; <a href="https://prabhupadabooks.com/d/eva" target="_blank" rel="noopener"><em>eva</em></a>—certainly; <a href="https://prabhupadabooks.com/d/sat" target="_blank" rel="noopener"><em>ṣaṭ</em></a><em>&#8211;</em><a href="https://prabhupadabooks.com/d/vidham" target="_blank" rel="noopener"><em>vidham</em></a>—six kinds; <a href="https://prabhupadabooks.com/d/priti" target="_blank" rel="noopener"><em>prīti</em></a>—of love; <a href="https://prabhupadabooks.com/d/laksanam" target="_blank" rel="noopener"><em>lakṣaṇam</em></a>—symptoms.</li></ul></li><li>Association creates sub-conscious sharing of value systems (e.g smoker vs non-smoking friend and consequence)</li><li><em><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-luminous-vivid-orange-color">&#8220;Watch your thoughts, they become your words; watch your words, they become your actions; watch your actions, they become your habits; watch your habits, they become your character; watch your character, it becomes your destiny.&#8221;</mark></em></li></ul>
 
 
 
-<h2>Wheel #3 : Work Life</h2>
+<h2 class="wp-block-heading">Wheel #3 : Work Life</h2>
 
 
 
-<h3><em><strong>Competition Crossroads</strong></em></h3>
+<h3 class="wp-block-heading"><em><strong>Competition Crossroads</strong></em></h3>
 
 
 
@@ -311,7 +311,7 @@
 
 
 
-<h3><em><strong>Self Discovery</strong></em></h3>
+<h3 class="wp-block-heading"><em><strong>Self Discovery</strong></em></h3>
 
 
 
@@ -319,11 +319,11 @@
 
 
 
-<figure class="wp-block-image size-large is-resized"><img decoding="async" loading="lazy" src="https://randommusings506939532.files.wordpress.com/2021/01/image.png?w=1024" alt="Is this Japanese concept the secret to a long, happy, meaningful ..." class="wp-image-217" width="491" height="464"/></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" decoding="async" src="https://randommusings506939532.files.wordpress.com/2021/01/image.png?w=1024" alt="Is this Japanese concept the secret to a long, happy, meaningful ..." class="wp-image-217" width="491" height="464"/></figure>
 
 
 
-<h3><em><strong>Sprituality @ work</strong></em></h3>
+<h3 class="wp-block-heading"><em><strong>Sprituality @ work</strong></em></h3>
 
 
 
@@ -331,7 +331,7 @@
 
 
 
-<h3><em><strong>Integrity &amp; Character</strong></em></h3>
+<h3 class="wp-block-heading"><em><strong>Integrity &amp; Character</strong></em></h3>
 
 
 
@@ -339,11 +339,11 @@
 
 
 
-<h2>Wheel #4 : Social Contributions</h2>
+<h2 class="wp-block-heading">Wheel #4 : Social Contributions</h2>
 
 
 
-<h3><em><strong>Selfless Sacrifice</strong></em></h3>
+<h3 class="wp-block-heading"><em><strong>Selfless Sacrifice</strong></em></h3>
 
 
 
@@ -351,7 +351,7 @@
 
 
 
-<h3><em><strong>Family First</strong></em></h3>
+<h3 class="wp-block-heading"><em><strong>Family First</strong></em></h3>
 
 
 
@@ -359,7 +359,7 @@
 
 
 
-<h3><em><strong>Nation Narrative</strong></em></h3>
+<h3 class="wp-block-heading"><em><strong>Nation Narrative</strong></em></h3>
 
 
 
@@ -367,7 +367,7 @@
 
 
 
-<h2>Quotes &amp; References</h2>
+<h2 class="wp-block-heading">Quotes &amp; References</h2>
 
 
 
@@ -399,7 +399,7 @@
 
 
 
-<blockquote class="wp-block-quote"><p><em>Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only Love can do that &#8211; MLK</em></p></blockquote>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p><em>Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only Love can do that &#8211; MLK</em></p></blockquote>
 
 
 
@@ -424,7 +424,7 @@
 
 
 
-<h3><em>Rule #1 &#8211; Don&#8217;t follow your passion</em></h3>
+<h3 class="wp-block-heading"><em>Rule #1 &#8211; Don&#8217;t follow your passion</em></h3>
 
 
 
@@ -436,15 +436,15 @@
 
 
 
-<ul><li><strong><em>Passion takes time</em></strong><ul><li>Amy Wrzeniewski &#8211; <a href="https://pdfs.semanticscholar.org/eb98/3573d298ba1b837e5fb2a2867b51b464e8ff.pdf?_ga=2.224679833.2097023339.1587877873-335073242.1587877873" target="_blank" rel="noreferrer noopener external" data-wpel-link="external">Study published in Journal of Research in personality</a><ul><li>Types of work<ul><li><strong><em>Job</em></strong> &#8211; a way to pay bills &#8211; focus on financial rewards, necessity rather than pleasure of fulfilment</li><li><strong><em>Career</em></strong> &#8211; a path toward increasingly better work &#8211; Focus on advancement</li><li><strong><em>Calling</em></strong> &#8211; work that&#8217;s a important part of your life and vital part of your identity. &#8211; Focus on enjoyment, fulfilment, social usefulness.</li></ul></li><li>People doing the same work saw it differently between the above 3 types.</li><li>Strongest predictor of someone describing their work as calling is the <strong><em>number of years spent on the job</em></strong></li><li>If you&#8217;ve been doing something longer &#8211; means you got good at it, built the required relationship for success</li></ul></li></ul></li></ul>
+<ul><li><strong><em>Passion takes time</em></strong><ul><li>Amy Wrzeniewski &#8211; <a href="https://pdfs.semanticscholar.org/eb98/3573d298ba1b837e5fb2a2867b51b464e8ff.pdf?_ga=2.224679833.2097023339.1587877873-335073242.1587877873" target="_blank" rel="noreferrer noopener">Study published in Journal of Research in personality</a><ul><li>Types of work<ul><li><strong><em>Job</em></strong> &#8211; a way to pay bills &#8211; focus on financial rewards, necessity rather than pleasure of fulfilment</li><li><strong><em>Career</em></strong> &#8211; a path toward increasingly better work &#8211; Focus on advancement</li><li><strong><em>Calling</em></strong> &#8211; work that&#8217;s a important part of your life and vital part of your identity. &#8211; Focus on enjoyment, fulfilment, social usefulness.</li></ul></li><li>People doing the same work saw it differently between the above 3 types.</li><li>Strongest predictor of someone describing their work as calling is the <strong><em>number of years spent on the job</em></strong></li><li>If you&#8217;ve been doing something longer &#8211; means you got good at it, built the required relationship for success</li></ul></li></ul></li></ul>
 
 
 
-<ul><li><strong><em>Passion is a side effect of Mastery</em></strong><ul><li>Daniel Pink &#8211; Puzzle of Motivation <a rel="noreferrer noopener external" href="https://www.ted.com/talks/dan_pink_the_puzzle_of_motivation" target="_blank" data-wpel-link="external">TED Talk</a><ul><li><em>Autonomy</em></li><li><em>Master</em></li><li><em>Purpose</em></li></ul></li><li><a rel="noreferrer noopener external" href="http://selfdeterminationtheory.org/" target="_blank" data-wpel-link="external">SDT</a> (<strong>Self determination Theory</strong>) &#8211; why some pursuits get our engines going while others leave us cold?<ul><li>Intrinsic vs extrinsic motivators</li><li>Nutrients for Intrinsic motivation<ul><li><strong>Autonomy</strong> &#8211; Feeling that you have control over your day and your actions are important</li><li><strong>Competence</strong> &#8211; Feeling that you are good at what you do</li><li><strong>Relatedness</strong> &#8211; Feeling of connection with other people</li></ul></li></ul></li><li>Competence and Autonomy can be achieved by most people in most fields assuming you are ready to put in the hard work required.<br>&nbsp;</li></ul></li><li><strong>Passion is dangerous</strong><ul><li>Origin &amp; importance of Passion Hypothesis &#8211; 1970 publication &#8211; <strong><em>What color is your parachute &#8211; Richard Bolles</em></strong><ul><li>Figure out what you like to do &amp; then find a place that needs people like you</li></ul></li><li>Jeffrey Arnett &#8211;<ul><li><a href="http://www.jeffreyarnett.com/ohgrowuppps2010.pdf" target="_blank" rel="noreferrer noopener external" data-wpel-link="external">Young Adulthood</a> &#8211; &#8220;Work isn&#8217;t just a job, but an adventure, a venue for self development and self expression and something that provides a satisfying fit with their assessment of their talents.</li></ul></li><li>Work Dis-satisfaction numbers have risen rapidly &#8211; <strong><em>The more we focused on loving what we do, the less we ended up loving it</em></strong></li></ul></li></ul>
+<ul><li><strong><em>Passion is a side effect of Mastery</em></strong><ul><li>Daniel Pink &#8211; Puzzle of Motivation <a rel="noreferrer noopener" href="https://www.ted.com/talks/dan_pink_the_puzzle_of_motivation" target="_blank">TED Talk</a><ul><li><em>Autonomy</em></li><li><em>Master</em></li><li><em>Purpose</em></li></ul></li><li><a rel="noreferrer noopener" href="http://selfdeterminationtheory.org/" target="_blank">SDT</a> (<strong>Self determination Theory</strong>) &#8211; why some pursuits get our engines going while others leave us cold?<ul><li>Intrinsic vs extrinsic motivators</li><li>Nutrients for Intrinsic motivation<ul><li><strong>Autonomy</strong> &#8211; Feeling that you have control over your day and your actions are important</li><li><strong>Competence</strong> &#8211; Feeling that you are good at what you do</li><li><strong>Relatedness</strong> &#8211; Feeling of connection with other people</li></ul></li></ul></li><li>Competence and Autonomy can be achieved by most people in most fields assuming you are ready to put in the hard work required.<br>&nbsp;</li></ul></li><li><strong>Passion is dangerous</strong><ul><li>Origin &amp; importance of Passion Hypothesis &#8211; 1970 publication &#8211; <strong><em>What color is your parachute &#8211; Richard Bolles</em></strong><ul><li>Figure out what you like to do &amp; then find a place that needs people like you</li></ul></li><li>Jeffrey Arnett &#8211;<ul><li><a href="http://www.jeffreyarnett.com/ohgrowuppps2010.pdf" target="_blank" rel="noreferrer noopener">Young Adulthood</a> &#8211; &#8220;Work isn&#8217;t just a job, but an adventure, a venue for self development and self expression and something that provides a satisfying fit with their assessment of their talents.</li></ul></li><li>Work Dis-satisfaction numbers have risen rapidly &#8211; <strong><em>The more we focused on loving what we do, the less we ended up loving it</em></strong></li></ul></li></ul>
 
 
 
-<h3><em>Rule #2 &#8211; Importance of Skill</em></h3>
+<h3 class="wp-block-heading"><em>Rule #2 &#8211; Importance of Skill</em></h3>
 
 
 
@@ -464,11 +464,11 @@
 
 
 
-<ul><li><strong>Five Habits of a Craftsman</strong><ol type="1"><li><em>Decide What Capital Market You’re In</em><ul><li>Winner takes all &#8211; There&#8217;s only one type of capital available and lots of people are competing for it. For e.g television writing.</li><li>Auction&nbsp; &#8211; unstructured, where each individual can bring in their unique collection &#8211; for e.g Technology</li></ul></li><li><em>Identify your Capital Type</em><ul><li>In Winner takes all Market, there&#8217;s only one capital type, so you got to have it.</li><li>In Auction market &#8211;&nbsp; it&#8217;s useful to seek <strong><em>Open Gates</em></strong> &#8211; as in exploring opportunities to build capital that are already open to you. This will get your further faster than starting from scratch.</li></ul></li><li><em>Define Good &#8211; Geoff Colvin &#8211; </em><a href="https://archive.fortune.com/magazines/fortune/fortune_archive/2006/10/30/8391794/index.htm" target="_blank" rel="noopener external noreferrer" data-wpel-link="external"><em>What it takes to be great</em></a><ol type="1"><li>Come up with goals that would determine if you have acquired career capital</li></ol></li><li><em>Stretch &amp; Destroy</em><ul><li>Doing things we know how to do well is enjoyable, and that’s exactly the opposite of what deliberate practice demands.… <strong>Deliberate practice is above all an effort of focus and concentration</strong>. That is what makes it “deliberate,” as distinct from the mindless playing of scales or hitting of tennis balls that most people engage in…</li></ul></li><li><em>Be Patient</em><ol type="1"><li>Diligence &#8211; It&#8217;s less about paying attention to main pursuit and more about your willingness to ignore other shiny things that will come along the way to distract.</li></ol></li></ol></li></ul>
+<ul><li><strong>Five Habits of a Craftsman</strong><ol type="1"><li><em>Decide What Capital Market You’re In</em><ul><li>Winner takes all &#8211; There&#8217;s only one type of capital available and lots of people are competing for it. For e.g television writing.</li><li>Auction&nbsp; &#8211; unstructured, where each individual can bring in their unique collection &#8211; for e.g Technology</li></ul></li><li><em>Identify your Capital Type</em><ul><li>In Winner takes all Market, there&#8217;s only one capital type, so you got to have it.</li><li>In Auction market &#8211;&nbsp; it&#8217;s useful to seek <strong><em>Open Gates</em></strong> &#8211; as in exploring opportunities to build capital that are already open to you. This will get your further faster than starting from scratch.</li></ul></li><li><em>Define Good &#8211; Geoff Colvin &#8211; </em><a href="https://archive.fortune.com/magazines/fortune/fortune_archive/2006/10/30/8391794/index.htm" target="_blank" rel="noopener"><em>What it takes to be great</em></a><ol type="1"><li>Come up with goals that would determine if you have acquired career capital</li></ol></li><li><em>Stretch &amp; Destroy</em><ul><li>Doing things we know how to do well is enjoyable, and that’s exactly the opposite of what deliberate practice demands.… <strong>Deliberate practice is above all an effort of focus and concentration</strong>. That is what makes it “deliberate,” as distinct from the mindless playing of scales or hitting of tennis balls that most people engage in…</li></ul></li><li><em>Be Patient</em><ol type="1"><li>Diligence &#8211; It&#8217;s less about paying attention to main pursuit and more about your willingness to ignore other shiny things that will come along the way to distract.</li></ol></li></ol></li></ul>
 
 
 
-<h3><em>Rule #3 &#8211; Importance of Control</em></h3>
+<h3 class="wp-block-heading"><em>Rule #3 &#8211; Importance of Control</em></h3>
 
 
 
@@ -476,7 +476,7 @@
 
 
 
-<h3><em>Rule #4 &#8211; Importance of Mission</em> (Think big act Small)</h3>
+<h3 class="wp-block-heading"><em>Rule #4 &#8211; Importance of Mission</em> (Think big act Small)</h3>
 
 
 
@@ -492,7 +492,7 @@
 
 
 
-<h2>Quotes &amp; References</h2>
+<h2 class="wp-block-heading">Quotes &amp; References</h2>
 
 
 
@@ -547,7 +547,7 @@
 
 
 
-<h2>Identifying the traits</h2>
+<h2 class="wp-block-heading">Identifying the traits</h2>
 
 
 
@@ -559,7 +559,7 @@
 
 
 
-<div class="is-layout-flow wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
 <p class="has-medium-font-size" style="line-height:01"><p class="has-medium-font-size" style="line-height:1;"><strong><em>Humble Only (The Pawn)</em></strong></p></p>
 
 
@@ -573,7 +573,7 @@
 
 
 
-<div class="is-layout-flow wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
 <p class="has-medium-font-size" style="line-height:0"><strong><em>Humble &amp; Hungry (The Accidental Mess Maker)</em></strong></p>
 
 
@@ -587,7 +587,7 @@
 
 
 
-<div class="is-layout-flow wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
 <p class="has-medium-font-size" style="line-height:0"><strong><em>Humble &amp; Smart (Lovable Slacker</em></strong>)</p>
 
 
@@ -601,7 +601,7 @@
 
 
 
-<div class="is-layout-flow wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
 <p class="has-medium-font-size" style="line-height:0"><strong><em>Hungry Only (Bulldozer)</em></strong></p>
 
 
@@ -611,7 +611,7 @@
 
 
 
-<div class="is-layout-flow wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
 <p class="has-medium-font-size" style="line-height:0"><strong><em>Hungry &amp; Smart (Skillful Politician)</em></strong></p>
 
 
@@ -621,7 +621,7 @@
 
 
 
-<div class="is-layout-flow wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
 <p class="has-medium-font-size" style="line-height:0"><strong><em>Smart Only (Charmer)</em></strong></p>
 
 
@@ -639,11 +639,11 @@
 
 
 
-<h2>Practical Applications</h2>
+<h2 class="wp-block-heading">Practical Applications</h2>
 
 
 
-<h4><em>#1 &#8211; Hiring a team Player</em></h4>
+<h4 class="wp-block-heading"><em>#1 &#8211; Hiring a team Player</em></h4>
 
 
 
@@ -651,7 +651,7 @@
 
 
 
-<h4 id="block-6fef6a0a-bd46-4ffe-b1f9-050bd65258f0"><em>#2 &#8211; Assessing the current Team members</em></h4>
+<h4 class="wp-block-heading" id="block-6fef6a0a-bd46-4ffe-b1f9-050bd65258f0"><em>#2 &#8211; Assessing the current Team members</em></h4>
 
 
 
@@ -659,7 +659,7 @@
 
 
 
-<h4 id="block-6fef6a0a-bd46-4ffe-b1f9-050bd65258f0"><em>#3 &#8211; Developing employees lacking some virtues / improvement to an existing team player</em></h4>
+<h4 class="wp-block-heading" id="block-6fef6a0a-bd46-4ffe-b1f9-050bd65258f0"><em>#3 &#8211; Developing employees lacking some virtues / improvement to an existing team player</em></h4>
 
 
 
@@ -675,7 +675,7 @@
 
 
 
-<h4 id="block-510fd28a-70f6-4adc-9950-702ee98fb436"><em>#4 &#8211; Embedding these behaviours into Culture</em></h4>
+<h4 class="wp-block-heading" id="block-510fd28a-70f6-4adc-9950-702ee98fb436"><em>#4 &#8211; Embedding these behaviours into Culture</em></h4>
 
 
 
@@ -683,7 +683,7 @@
 
 
 
-<h2>Quotes &amp; References</h2>
+<h2 class="wp-block-heading">Quotes &amp; References</h2>
 
 
 
@@ -758,27 +758,27 @@ Low Standards
 
 
 
-<h2><strong><em><span style="text-decoration:underline;">Indictors of the dysfunctions and it&#8217;s absence</span></em></strong></h2>
+<h2 class="wp-block-heading"><strong><em><span style="text-decoration:underline;">Indictors of the dysfunctions and it&#8217;s absence</span></em></strong></h2>
 
 
 
-<div class="is-layout-flow wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
 <figure class="wp-block-table alignwide is-style-regular"><table><tbody><tr><td class="has-text-align-left" data-align="left"><strong>Teams with Lack of Trust</strong> <br><br><strong>* </strong> Conceal their weaknesses and mistakes from one another <br><strong>* </strong> Hesitate to ask for help or provide constructive feedback <br><strong>*  </strong>Hesitate to offer help outside their own areas of responsibility <br><strong><strong>*</strong></strong>  Jump to conclusions about the intentions and aptitudes of others without attempting to clarify them <br><strong>*</strong>  Fail to recognize and tap into one another&#8217;s skills and experiences&nbsp; <br><strong><strong>*</strong></strong> Waste time and energy managing their behaviors for effect <br><strong><strong>*</strong></strong> Hold grudges <br><strong><strong>*</strong></strong> Dread meetings and find reasons to avoid spending time together<br></td><td class="has-text-align-left" data-align="left"><strong>Teams with Trust</strong> <br><br><strong><strong>*</strong></strong> Admit weaknesses and mistakes <br><strong><strong>*</strong></strong> Ask for help <br><strong><strong>*</strong></strong> Accept questions and input about their areas of responsibility <br><strong><strong>*</strong></strong> Give one another the benefit of the doubt before arriving at a negative conclusion <br><strong><strong>*</strong></strong> Take risks in offering feedback and assistance <br><strong><strong>*</strong></strong> Appreciate and tap into one another&#8217;s skills and experiences <br><strong><strong>*</strong></strong> Focus time and energy on important issues, not politics <br><strong><strong>*</strong></strong> Offer and accept apologies without hesitation <br><strong><strong>*</strong></strong> Look forward to meetings and other opportunities to work as a group.</td></tr><tr><td class="has-text-align-left" data-align="left"><strong>Teams that Fear Conflict</strong><br><br><strong><strong>*</strong></strong> Have boring meetings <br><strong><strong>*</strong></strong> Create environments where back-channel politics and personal attacks thrive <br><strong><strong>*</strong></strong> Ignore controversial topics that are critical to team success <br><strong><strong>*</strong></strong> Fail to tap into all the opinions and perspectives of team members <br><strong><strong>*</strong></strong> Waste time and energy with posturing and interpersonal risk management</td><td class="has-text-align-left" data-align="left"><strong>Teams that Engage in Conflict</strong> <br><br><strong><strong>*</strong></strong> Have lively, interesting meetings <br><strong><strong>*</strong></strong> Extract and exploit the ideas of all team members <br><strong><strong>*</strong></strong> Solve real problems <br><strong><strong>*</strong></strong> Quickly Minimize politics <br><strong><strong>*</strong></strong> Put critical topics on the table for discussion<br><br><br></td></tr><tr><td class="has-text-align-left" data-align="left"><strong>Team that Fails to Commit</strong> <br><br><strong><strong>*</strong></strong> Creates ambiguity among the team about direction and priorities <br><strong><strong>*</strong></strong> Watches windows of opportunity close due to excessive analysis and unnecessary delay <br><strong><strong>*</strong></strong> Breeds lack of confidence and fear of failure <br><strong><strong>*</strong></strong> Revisits discussions and decisions again and again <br><strong><strong>*</strong></strong> Encourages second-guessing among team members</td><td class="has-text-align-left" data-align="left"><strong>Team that Commits</strong> <br><br><strong><strong>*</strong></strong> Creates clarity around direction and priorities <br><strong><strong>*</strong></strong> Aligns the entire team around common objectives <br><strong><strong>*</strong></strong> Develops an ability to learn from mistakes <br><strong><strong>*</strong></strong> Takes advantage of opportunities before competitors do <br><strong><strong>*</strong></strong> Moves forward without hesitation<br><strong><strong>*</strong></strong> Changes direction without hesitation or guilt</td></tr><tr><td class="has-text-align-left" data-align="left"><strong>Team that Avoids Accountability</strong> <br><br><strong><strong>*</strong></strong> Creates resentment among team members who have different standards of performance <br><strong><strong>*</strong></strong> Encourages mediocrity <br><strong><strong>*</strong></strong> Misses deadlines and key deliverables <strong><strong>*</strong></strong> Places an undue burden on the team leader as the sole source of discipline<br><br><br><br></td><td class="has-text-align-left" data-align="left"><strong>Team that Holds One Another Accountable</strong> <br><br><strong><strong>*</strong></strong> Ensures that poor performers feel pressure to improve<br><strong><strong>*</strong></strong> Identifies potential problems quickly by questioning one another&#8217;s approaches without hesitation <br><strong><strong>*</strong></strong> Establishes respect among team members who are held to the same high standards <br><strong><strong>*</strong></strong> Avoids excessive bureaucracy around performance management</td></tr><tr><td class="has-text-align-left" data-align="left"><strong>Team that is not Focused on Results</strong> <br><br><strong><strong>*</strong></strong> Stagnates/fails to grow <br><strong><strong>*</strong></strong> Rarely defeats competitor <br><strong><strong>*</strong></strong> Loses achievement-oriented employees <br><strong><strong>*</strong></strong> Encourages team members to focus on their own careers and individual goals <br><strong><strong>*</strong></strong> Is easily distracted</td><td class="has-text-align-left" data-align="left">&nbsp;</td></tr></tbody></table></figure>
 </div></div>
 
 
 
-<h2><strong><span style="text-decoration:underline;">How to fix the dysfunctions</span></strong></h2>
+<h2 class="wp-block-heading"><strong><span style="text-decoration:underline;">How to fix the dysfunctions</span></strong></h2>
 
 
 
-<div class="is-layout-flex wp-container-9 wp-block-columns">
-<div class="is-layout-flow wp-block-column" style="flex-basis:100%">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
 <figure class="wp-block-table alignwide is-style-regular"><table><thead><tr><th class="has-text-align-center" data-align="center">Dy<strong>sfunction</strong></th><th class="has-text-align-left" data-align="left"><strong>How to Overcome</strong></th><th>R<strong>ole of a Leader</strong></th></tr></thead><tbody><tr><td class="has-text-align-center" data-align="center"><strong>Lack of Trust</strong></td><td class="has-text-align-left" data-align="left"><strong><em>Personal Histories exercise</em></strong> Share details about themselves focussed on their life stories. This can encourage empathy and aid in behavioral attributio<em>ns</em>.<br><em><strong>Team effectiveness exercise</strong></em> <sup>Involves risk</sup><br>Have members identify single most important contrib each of their peers makes and one area they must improve / eliminate. <em><strong>Personality Profiles</strong></em> <br>MBTI/ DiSC, <em>360 degree Feedback</em> and <em>Experiential Team exercises</em></td><td>Display their own vulnerability in a genuine way <strong>and<em> create an environment that does not punish vulnerability</em></strong><br><br><br><br><br><br><br><br><br><br><br><br><br></td></tr><tr><td class="has-text-align-center" data-align="center"><strong>Fear of Conflict</strong></td><td class="has-text-align-left" data-align="left"><em><strong>Conflict Miners</strong></em> <br>Someone who extracts buried disagreements <br><br><strong>Realtime permission</strong> <br>Ack when there&#8217;s a conflict debate happening and interrupt to let them know that it&#8217;s healthy and necessary.<br><br><br><br><br></td><td><strong><em>Don&#8217;t interrupt </em></strong>conflicts/ disagreement with the intent of protecting the team members <strong><em>Demonstrate</em></strong> restraint when their people engage in conflict, and allow resolution to occur naturally, as messy as it can sometimes be. <br><strong><em>Model conflict behaviour &#8211; </em></strong>Don&#8217;t avoid conflict when it&#8217;s necessary and productive, by doing so you are encouraging the behaviour in your team</td></tr><tr><td class="has-text-align-center" data-align="center"><strong>Lack of Commitment &nbsp;</strong></td><td class="has-text-align-left" data-align="left"><em><strong>Cascading Messaging</strong></em> Review key decisions and agree what needs to be communicated and what is confidential. Communicate to teams. <em><strong>Deadlines</strong></em> <br>Commit to deadlines for all intermediate decisions and milestones. Identify and address misalignment before it&#8217;s too late <em><strong>Contingency &amp; Worst case analysis</strong></em> <br>Plan for worst case scenarios and setup mitigation plans. This will reduce anxiety. <br><strong><em>Low Risk exposure therapy</em> </strong>In low risk situations, force the team to make decision with just little research and analysis.</td><td>Be comfortable in making a decision that can ultimately go wrong.<br><br>Constantly push the group for closure around issues <br><br>Make the group adhere to Schedules that team has set <br><br><strong><em>Don&#8217;t place a high premium on certainty or consensus</em></strong><br><br><br><br><br><br><br><br><br></td></tr><tr><td class="has-text-align-center" data-align="center"><strong>Avoidance of Accountability</strong></td><td class="has-text-align-left" data-align="left"><strong><em>Publication of Goals &amp; Standards</em></strong> <br>Clarify publicly exactly what the team needs to achieve, who needs to deliver what, and how everyone must behave in order to succeed.<br><em><strong>Regular Progress reviews</strong></em> Regular feedback on progress within the team &#8211; create a structure <br><em><strong>Team Rewards</strong></em> <br>Shift rewards to be team based rather than individual performance</td><td><strong>Encourage</strong> and allow the team to serve as the first and primary accountability mechanism <br><br><strong>Don&#8217;t</strong> be the only source of discipline <br><br><strong>Be</strong> an ultimate arbiter of discipline and let the team know that you&#8217;ll step in when it&#8217;s necessary &nbsp;</td></tr><tr><td class="has-text-align-center" data-align="center"><strong>Inattention to Results</strong></td><td class="has-text-align-left" data-align="left"><em><strong>Public declaration of results</strong></em> <br>Have the team publicly commit to certain results <em><strong>Results based rewards</strong></em> <br>Tie rewards to specific results or outcomes.</td><td><strong>Set</strong> a tone for focus on results <br><br><strong>Reserve</strong> rewards and recognition for those who make real contributions<br></td></tr></tbody></table></figure>
 
 
 
-<h2>Quotes &amp; References</h2>
+<h2 class="wp-block-heading">Quotes &amp; References</h2>
 
 
 

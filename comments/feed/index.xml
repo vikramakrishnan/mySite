@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments for Infinite Possibilities	</title>
-	<atom:link href="http://localhost/mySite/comments/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/mySite/comments/feed/?simply_static_page=28495" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Dare to Dream</description>
 	<lastBuildDate>Sat, 27 Apr 2024 17:20:45 +0000</lastBuildDate>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1</generator>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
 </channel>
 </rss>

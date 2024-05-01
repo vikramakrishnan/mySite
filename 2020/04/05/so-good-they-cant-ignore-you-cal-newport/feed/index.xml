@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments on: So Good they can&#8217;t ignore you &#8211; Cal Newport	</title>
-	<atom:link href="http://localhost/mySite/2020/04/05/so-good-they-cant-ignore-you-cal-newport/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/mySite/2020/04/05/so-good-they-cant-ignore-you-cal-newport/feed/?simply_static_page=28619" rel="self" type="application/rss+xml" />
 	<link>/2020/04/05/so-good-they-cant-ignore-you-cal-newport/</link>
 	<description>Dare to Dream</description>
 	<lastBuildDate>Fri, 22 Jul 2022 05:48:43 +0000</lastBuildDate>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1</generator>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
 </channel>
 </rss>
